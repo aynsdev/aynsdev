@@ -25,4 +25,4 @@
 - Simplifying workflows with **custom solutions**.  
 
 📂 **Pinned Repositories**  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aynsdev&repo=aynsdev)](https://github.com/aynsdev/aynsdev)  
+
