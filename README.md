@@ -6,7 +6,6 @@
 - 🌱 Exploring **React Native**, **MongoDB with Prisma**, and **e-ticketing solutions**.  
 - 👨‍💻 Full-stack experience: **Laravel, React, React Native**, and **API Development**.  
 - 📍 Based in **Bohol**, actively contributing to the tech ecosystem.  
-- ⚡ Fun fact: I’m into **intermittent fasting** and love mentoring new developers!
 
 📫 **How to Reach Me**  
 - **Email**: [christianflugod@gmail.com](mailto:christianflugod@gmail.com)  
