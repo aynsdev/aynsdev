@@ -34,7 +34,7 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind,nodejs,prisma,mongodb,mysql,docker,git,github,vscode,figma&perline=8&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php%2Claravel%2Cjs%2Cts%2Creact%2Cnextjs%2Ctailwind%2Cnodejs%2Cprisma%2Cmongodb%2Cmysql%2Cdocker%2Cgit%2Cgithub%2Cvscode%2Cfigma&perline=8&theme=dark" />
     <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,tailwind,nodejs,prisma,mongodb,mysql,docker,git,github,vscode,figma&perline=8&theme=light" alt="Tech stack" />
   </picture>
 </div>
